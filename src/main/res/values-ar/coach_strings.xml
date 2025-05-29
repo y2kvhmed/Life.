@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Coach Screen -->
+    <string name="coach_welcome_message">أنا مدربك الذكي المدعوم بتقنية Deepseek. يمكنني مساعدتك في خطط التمارين، واقتراحات الوجبات، والتحفيز، والمزيد. بماذا ترغب في المساعدة اليوم؟</string>
+    <string name="coach_suggestion_workout">إنشاء خطة تمارين</string>
+    <string name="coach_suggestion_meal">اقتراح وجبة صحية</string>
+    <string name="coach_suggestion_motivation">ساعدني في التحفيز</string>
+    <string name="coach_suggestion_journal">أعطني اقتراحاً للكتابة في المذكرات</string>
+    <string name="coach_daily_plan_title">خطتك اليومية</string>
+    <string name="coach_generate_plan">إنشاء خطة يومية</string>
+    <string name="coach_generate_workout">إنشاء تمرين</string>
+    <string name="coach_generate_meal">إنشاء أفكار وجبات</string>
+    <string name="coach_generate_motivation">حفزني</string>
+    <string name="coach_network_error">لا يوجد اتصال بالإنترنت. يرجى التحقق من شبكتك والمحاولة مرة أخرى.</string>
+    <string name="coach_api_error">حدث خطأ أثناء الاتصال بخدمة الذكاء الاصطناعي. يرجى المحاولة مرة أخرى لاحقاً.</string>
+    <string name="coach_thinking">جاري التفكير…</string>
+    <string name="coach_retry">إعادة المحاولة</string>
+</resources>

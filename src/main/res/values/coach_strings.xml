@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Coach Screen -->
+    <string name="coach_welcome_message">I\'m your AI coach powered by Deepseek. I can help you with workout plans, meal suggestions, motivation, and more. What would you like help with today?</string>
+    <string name="coach_suggestion_workout">Create a workout plan</string>
+    <string name="coach_suggestion_meal">Suggest a healthy meal</string>
+    <string name="coach_suggestion_motivation">Help me with motivation</string>
+    <string name="coach_suggestion_journal">Give me a journal prompt</string>
+    <string name="coach_daily_plan_title">Your Daily Plan</string>
+    <string name="coach_generate_plan">Generate Daily Plan</string>
+    <string name="coach_generate_workout">Generate Workout</string>
+    <string name="coach_generate_meal">Generate Meal Ideas</string>
+    <string name="coach_generate_motivation">Motivate Me</string>
+    <string name="coach_network_error">No internet connection. Please check your network and try again.</string>
+    <string name="coach_api_error">There was an error connecting to the AI service. Please try again later.</string>
+    <string name="coach_thinking">Thinking…</string>
+    <string name="coach_retry">Retry</string>
+</resources>

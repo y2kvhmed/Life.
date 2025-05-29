@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background with Gradient (Apple-like) -->
+    <path
+        android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:type="linear"
+                android:startX="24"
+                android:startY="24"
+                android:endX="84"
+                android:endY="84"
+                android:startColor="#98C1FF"
+                android:endColor="#5E8EE0"
+                android:tileMode="clamp" />
+        </aapt:attr>
+    </path>
+    
+    <!-- Subtle Inner Highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.1"
+        android:pathData="M54,30a24,24 0,0 1,0 48a24,24 0,0 1,0 -48" />
+    
+    <!-- Text "life." with SF Pro inspired style -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,58L36,50L39,50L39,55L44,55L44,58L36,58ZM46,58L46,50L49,50L49,58L46,58ZM51,58L51,50L54,50L54,55L58,55L58,58L51,58ZM60,58L60,55L63,55L63,58L60,58ZM65,58L65,50L73,50L73,53L68,53L68,54L72,54L72,57L68,57L68,55L73,55L73,58L65,58Z" />
+    
+    <!-- Heartbeat Line (Smoother, Apple-like) -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M28,54 L36,54 L40,44 L48,64 L54,48 L60,54 L80,54" />
+</vector>

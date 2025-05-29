@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Information -->
+    <string name="app_name">life.</string>
+    <string name="app_tagline">رفيقك الكامل للحياة</string>
+    
+    <!-- Authentication -->
+    <string name="login">تسجيل الدخول</string>
+    <string name="sign_up">إنشاء حساب</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور؟</string>
+    <string name="create_account">إنشاء حساب جديد</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    <string name="already_have_account">لديك حساب بالفعل؟</string>
+    <string name="reset_password_instructions">أدخل بريدك الإلكتروني وسنرسل لك تعليمات لإعادة تعيين كلمة المرور.</string>
+    <string name="send_reset_instructions">إرسال تعليمات إعادة التعيين</string>
+    <string name="back_to_login">العودة إلى تسجيل الدخول</string>
+    <string name="show_password">إظهار كلمة المرور</string>
+    <string name="hide_password">إخفاء كلمة المرور</string>
+    <string name="back">رجوع</string>
+    
+    <!-- Navigation Destinations -->
+    <string name="nav_home">اليوم</string>
+    <string name="nav_coach">المدرب</string>
+    <string name="nav_workout">التمارين</string>
+    <string name="nav_running">الجري</string>
+    <string name="nav_nutrition">التغذية</string>
+    <string name="nav_journal">المذكرات</string>
+    <string name="nav_faith">العبادة</string>
+    <string name="nav_shares">المشاركات</string>
+    <string name="nav_settings">الإعدادات</string>
+    
+    <!-- Home Screen -->
+    <string name="streak_count">أيام متتالية</string>
+    <string name="todays_activities">أنشطة اليوم</string>
+    <string name="quick_log">تسجيل سريع</string>
+    <string name="motivation_of_the_day">تحفيز اليوم</string>
+    <string name="refresh">تحديث</string>
+    
+    <!-- Workout -->
+    <string name="workout_history">سجل التمارين</string>
+    <string name="workout_plans">خطط التمارين</string>
+    <string name="start_workout">بدء التمرين</string>
+    <string name="complete_workout">إكمال التمرين</string>
+    <string name="create_custom_workout">إنشاء تمرين مخصص</string>
+    <string name="workout_name">اسم التمرين</string>
+    <string name="workout_duration">المدة</string>
+    <string name="workout_intensity">الشدة</string>
+    <string name="workout_type">النوع</string>
+    <string name="workout_description">الوصف</string>
+    <string name="workout_completed">تم إكمال التمرين!</string>
+    
+    <!-- Running -->
+    <string name="start_run">بدء الجري</string>
+    <string name="stop_run">إيقاف الجري</string>
+    <string name="pause_run">إيقاف مؤقت</string>
+    <string name="resume_run">استئناف</string>
+    <string name="distance">المسافة</string>
+    <string name="duration">المدة</string>
+    <string name="pace">السرعة</string>
+    <string name="calories">السعرات الحرارية</string>
+    <string name="manual_entry">إدخال يدوي</string>
+    <string name="run_history">سجل الجري</string>
+    <string name="run_completed">تم إكمال الجري!</string>
+    
+    <!-- Nutrition -->
+    <string name="log_meal">تسجيل وجبة</string>
+    <string name="meal_name">اسم الوجبة</string>
+    <string name="meal_type">نوع الوجبة</string>
+    <string name="meal_description">وصف الوجبة</string>
+    <string name="water_intake">شرب الماء</string>
+    <string name="add_water">إضافة ماء</string>
+    <string name="meal_suggestions">اقتراحات وجبات</string>
+    <string name="breakfast">الإفطار</string>
+    <string name="lunch">الغداء</string>
+    <string name="dinner">العشاء</string>
+    <string name="snack">وجبة خفيفة</string>
+    <string name="meal_history">سجل الوجبات</string>
+    <string name="water_goal">هدف شرب الماء</string>
+    <string name="water_progress">تقدم شرب الماء</string>
+    
+    <!-- Journal -->
+    <string name="new_entry">إدخال جديد</string>
+    <string name="journal_entries">المذكرات</string>
+    <string name="journal_title">العنوان</string>
+    <string name="journal_content">اكتب أفكارك هنا...</string>
+    <string name="save_entry">حفظ المذكرة</string>
+    <string name="journal_prompts">اقتراحات للكتابة</string>
+    <string name="use_prompt">استخدم هذا الاقتراح</string>
+    <string name="voice_to_text">تحويل الصوت إلى نص</string>
+    <string name="encrypt_entry">تشفير المذكرة</string>
+    
+    <!-- Faith - Common -->
+    <string name="select_religion">اختر دينك</string>
+    <string name="prayer_tracker">متابعة الصلاة</string>
+    <string name="daily_message">رسالة اليوم</string>
+    <string name="reflection">تأمل</string>
+    
+    <!-- Faith - Islam -->
+    <string name="islam">الإسلام</string>
+    <string name="prayer_times">أوقات الصلاة</string>
+    <string name="fajr">الفجر</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+    <string name="quran_verse">آية قرآنية لليوم</string>
+    <string name="fasting_tracker">متابعة الصيام</string>
+    
+    <!-- Faith - Christianity -->
+    <string name="christianity">المسيحية</string>
+    <string name="bible_verse">آية من الإنجيل لليوم</string>
+    <string name="prayer_goals">أهداف الصلاة</string>
+    <string name="daily_devotional">تأمل يومي</string>
+    
+    <!-- Faith - Judaism -->
+    <string name="judaism">اليهودية</string>
+    <string name="torah_passage">مقطع من التوراة لليوم</string>
+    <string name="shabbat_reminder">تذكير السبت</string>
+    <string name="mitzvot_tracker">متابعة المتسفوت</string>
+    
+    <!-- Shares -->
+    <string name="new_share">مشاركة جديدة</string>
+    <string name="share_content">شارك أفكارك بشكل مجهول...</string>
+    <string name="post_share">نشر</string>
+    <string name="trending">الأكثر رواجاً</string>
+    <string name="recent">الأحدث</string>
+    <string name="like">إعجاب</string>
+    <string name="comment">تعليق</string>
+    <string name="write_comment">اكتب تعليقاً...</string>
+    <string name="send">إرسال</string>
+    
+    <!-- Coach -->
+    <string name="ai_coach">المدرب الذكي</string>
+    <string name="ask_coach">اسأل مدربك...</string>
+    <string name="daily_plan">خطة اليوم</string>
+    <string name="suggestions">اقتراحات</string>
+    <string name="generate_plan">إنشاء خطة</string>
+    
+    <!-- Settings -->
+    <string name="theme">المظهر</string>
+    <string name="language">اللغة</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="privacy">الخصوصية</string>
+    <string name="account">الحساب</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="about">حول التطبيق</string>
+    <string name="version">الإصدار</string>
+    <string name="accent_color">لون التمييز</string>
+    <string name="font_size">حجم الخط</string>
+    <string name="customize_home">تخصيص الشاشة الرئيسية</string>
+    
+    <!-- Themes -->
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_amoled">أموليد</string>
+    <string name="theme_pastel">باستيل</string>
+    <string name="theme_custom">مخصص</string>
+    
+    <!-- Common Actions -->
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="add">إضافة</string>
+    <string name="remove">إزالة</string>
+    <string name="search">بحث</string>
+    <string name="filter">تصفية</string>
+    <string name="sort">ترتيب</string>
+    <string name="apply">تطبيق</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="done">تم</string>
+    <string name="next">التالي</string>
+    <string name="previous">السابق</string>
+    <string name="complete">إكمال</string>
+    <string name="skip">تخطي</string>
+    <string name="continue_text">متابعة</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="ok">موافق</string>
+</resources>

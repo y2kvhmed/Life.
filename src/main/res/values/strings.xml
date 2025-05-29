@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Information -->
+    <string name="app_name">life.</string>
+    <string name="app_tagline">Your complete lifestyle companion</string>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create Account</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="reset_password_instructions">Enter your email address and we\'ll send you instructions to reset your password.</string>
+    <string name="send_reset_instructions">Send Reset Instructions</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="show_password">Show Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="back">Back</string>
+    
+    <!-- Navigation Destinations -->
+    <string name="nav_home">Today</string>
+    <string name="nav_coach">Coach</string>
+    <string name="nav_workout">Workout</string>
+    <string name="nav_running">Running</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_faith">Faith</string>
+    <string name="nav_shares">Shares</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home Screen -->
+    <string name="streak_count">Day Streak</string>
+    <string name="todays_activities">Today\'s Activities</string>
+    <string name="quick_log">Quick Log</string>
+    <string name="motivation_of_the_day">Motivation of the Day</string>
+    <string name="refresh">Refresh</string>
+    
+    <!-- Workout -->
+    <string name="workout_history">Workout History</string>
+    <string name="workout_plans">Workout Plans</string>
+    <string name="start_workout">Start Workout</string>
+    <string name="complete_workout">Complete Workout</string>
+    <string name="create_custom_workout">Create Custom Workout</string>
+    <string name="workout_name">Workout Name</string>
+    <string name="workout_duration">Duration</string>
+    <string name="workout_intensity">Intensity</string>
+    <string name="workout_type">Type</string>
+    <string name="workout_description">Description</string>
+    <string name="workout_completed">Workout Completed!</string>
+    
+    <!-- Running -->
+    <string name="start_run">Start Run</string>
+    <string name="stop_run">Stop Run</string>
+    <string name="pause_run">Pause</string>
+    <string name="resume_run">Resume</string>
+    <string name="distance">Distance</string>
+    <string name="duration">Duration</string>
+    <string name="pace">Pace</string>
+    <string name="calories">Calories</string>
+    <string name="manual_entry">Manual Entry</string>
+    <string name="run_history">Run History</string>
+    <string name="run_completed">Run Completed!</string>
+    
+    <!-- Nutrition -->
+    <string name="log_meal">Log Meal</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="meal_type">Meal Type</string>
+    <string name="meal_description">Description</string>
+    <string name="water_intake">Water Intake</string>
+    <string name="add_water">Add Water</string>
+    <string name="meal_suggestions">Meal Suggestions</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="snack">Snack</string>
+    <string name="meal_history">Meal History</string>
+    <string name="water_goal">Water Goal</string>
+    <string name="water_progress">Water Progress</string>
+    
+    <!-- Journal -->
+    <string name="new_entry">New Entry</string>
+    <string name="journal_entries">Journal Entries</string>
+    <string name="journal_title">Title</string>
+    <string name="journal_content">Write your thoughts here...</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="journal_prompts">Journal Prompts</string>
+    <string name="use_prompt">Use This Prompt</string>
+    <string name="voice_to_text">Voice to Text</string>
+    <string name="encrypt_entry">Encrypt Entry</string>
+    
+    <!-- Faith - Common -->
+    <string name="select_religion">Select Your Faith</string>
+    <string name="prayer_tracker">Prayer Tracker</string>
+    <string name="daily_message">Daily Message</string>
+    <string name="reflection">Reflection</string>
+    
+    <!-- Faith - Islam -->
+    <string name="islam">Islam</string>
+    <string name="prayer_times">Prayer Times</string>
+    <string name="fajr">Fajr</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="quran_verse">Quran Verse of the Day</string>
+    <string name="fasting_tracker">Fasting Tracker</string>
+    
+    <!-- Faith - Christianity -->
+    <string name="christianity">Christianity</string>
+    <string name="bible_verse">Bible Verse of the Day</string>
+    <string name="prayer_goals">Prayer Goals</string>
+    <string name="daily_devotional">Daily Devotional</string>
+    
+    <!-- Faith - Judaism -->
+    <string name="judaism">Judaism</string>
+    <string name="torah_passage">Torah Passage of the Day</string>
+    <string name="shabbat_reminder">Shabbat Reminder</string>
+    <string name="mitzvot_tracker">Mitzvot Tracker</string>
+    
+    <!-- Shares -->
+    <string name="new_share">New Share</string>
+    <string name="share_content">Share your thoughts anonymously...</string>
+    <string name="post_share">Post</string>
+    <string name="trending">Trending</string>
+    <string name="recent">Recent</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="write_comment">Write a comment...</string>
+    <string name="send">Send</string>
+    
+    <!-- Coach -->
+    <string name="ai_coach">AI Coach</string>
+    <string name="ask_coach">Ask your coach...</string>
+    <string name="daily_plan">Daily Plan</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="generate_plan">Generate Plan</string>
+    
+    <!-- Settings -->
+    <string name="theme">Theme</string>
+    <string name="language">Language</string>
+    <string name="notifications">Notifications</string>
+    <string name="privacy">Privacy</string>
+    <string name="account">Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="font_size">Font Size</string>
+    <string name="customize_home">Customize Home</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile_picture">Edit Profile Picture</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="stats">Stats</string>
+    <string name="workouts">Workouts</string>
+    <string name="runs">Runs</string>
+    <string name="streak_days">Streak Days</string>
+    
+    <!-- Themes -->
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_amoled">AMOLED</string>
+    <string name="theme_pastel">Pastel</string>
+    <string name="theme_custom">Custom</string>
+    
+    <!-- Common Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="complete">Complete</string>
+    <string name="skip">Skip</string>
+    <string name="continue_text">Continue</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+</resources>
